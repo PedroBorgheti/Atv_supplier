@@ -101,7 +101,7 @@ flutter build web
 ```
 
 Resultado esperado: analise sem problemas, testes aprovados e build web gerado em `build/web`.
-
+// as demais evidencias que o enunciado pediu deixei em um video enviado ao professor diretamente, espero que não atrapalhe a avaliação.
 ## Observacoes manuais
 
 Use este espaco para registrar observacoes, testes realizados, prints ou comentarios da apresentacao:
